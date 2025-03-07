@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Website
-email: 
+title: Rabiul's Website
+email: islamr9@mcmaster.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Brought to you by the Lewis & Ruth Sherman Centre for Digital Scholarship and the McMaster University Library.
+  This is the personal website of Rabiul Islam, a Health economist.
 baseurl: "/researcher" # the subpath of your site, e.g. /blog
 url: "https://islamr9.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: islamr9
+twitter_username: 
 github_username:  islamr9
 
 # Build settings
