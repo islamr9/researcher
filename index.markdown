@@ -11,7 +11,7 @@ title: Home
 ![profile image](https://upload.wikimedia.org/wikipedia/commons/0/03/Cat_wedding.jpeg)
 -->
 
-<center><img src="./assets/img/cat_wedding.jpeg" alt="Sample Image" height="250" style="padding:20px;"/></center>
+<center><img src="./assets/img/divine_cat.jpeg" alt="Sample Image" height="250" style="padding:20px;"/></center>
 
 
 Welcome to my website! This template was created using the [Minima](https://github.com/jekyll/minima) theme.
